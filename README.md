@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I like to learn new technologies and work with software development.\
-🔭 &nbsp;I'm currently working at CI&T Software as a Software Architect.
+💡 &nbsp;&nbsp;I have been working with software development since 2006.\
+🔭 &nbsp;I'm currently working at CI&T Software.
 
 ### 🛠 &nbsp;Tech Stack
 
