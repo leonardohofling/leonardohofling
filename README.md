@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I like to learn new technologies and develop software solutions.\
+💡 &nbsp;&nbsp;I like to learn new technologies and work with software development.\
 🔭 &nbsp;I'm currently working at CI&T Software as a Software Architect.
 
 ### 🛠 &nbsp;Tech Stack
