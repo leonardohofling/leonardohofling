@@ -1,9 +1,15 @@
-## 👋 Hi there! I'm Leo
+## 👋 Hi there! I'm Leonardo!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I have been working with software development since 2006.\
-🔭 &nbsp;I'm currently working at CI&T Software.
+💡  A software developer with 18+ years of experience crafting innovative solutions and leading technical teams.\
+🔭  Currently working as a Tech Lead, managing a team working on AI-driven projects with a tech stack that includes Node.js, React.js, and Python.\
+🌱  Passionate about AI integration, scalable architectures, and mentoring the next generation of developers.
+
+### 🚀 My Recent Focus
+* Leading projects leveraging AI for real-world applications.\
+* Building scalable and maintainable solutions using Node.js, Python, Java, .NET, ReactJS and React Native\
+* Collaborating on open-source projects and sharing knowledge with the developer community.
 
 ### 🛠 &nbsp;Tech Stack
 
